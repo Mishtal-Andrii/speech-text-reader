@@ -1,5 +1,5 @@
 ## Speech Text Reader
-
+[DEMO LINK](https://mishtal-andrii.github.io/speech-text-reader/)
 A text to speech app for non-verbal people. Pre-made buttons and custom text speech. This project uses the Web Speech API
 
 ## Project Specifications
